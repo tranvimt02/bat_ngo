@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Min Thư à!',
     introDesc: `Anh thấy thích tất cả nngày trong tuần trừ chủ nhật thôi ,vì chủ nhật hong có THU  `,
         
-    btnIntro: 'click',
+    btnIntro: 'clickkk',
     title: 'meo iu minh thư nhứttttt😙',
     desc: 'minthu co iu meo meo khom  ',
     btnYes: 'yes ',
