@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'yes ',
     btnNo: 'no:3',
     question:'chúc mừng mthu đã nhận được một món quà lớn đó làaa TUI đây <3',
-    btnReply: 'bấm phím V 30 lần chữ sẽ hiện ra xong click đây nhaa',
+    btnReply: 'bấm V liên tục tới khi hết chữ nha , xong click típ ở đây lun ',
     reply: ' bất ngờ chưa I LOVE U <33333333',
     mess: 'thấy hay hong🥰. Yêu mthu nhiều nhiều 😘😘',
     messDesc: 'công chúa ngủ ngonnnnn',
