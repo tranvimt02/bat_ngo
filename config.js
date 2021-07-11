@@ -1,17 +1,16 @@
 const CONFIG = {
-    introTitle: 'Bae à!',
-    introDesc: `anh thích tất cả nngày trong tuần trừ chủ nhật ,vì chủ nhật hong có THU  `,
+    introTitle: 'Min Thư à!',
+    introDesc: `Anh thấy thích tất cả nngày trong tuần trừ chủ nhật thôi ,vì chủ nhật hong có THU  `,
         
     btnIntro: 'hihi',
-    title: 'meo iu mthu quáâ 😙',
+    title: 'meo iu minh thư nhứttttt😙',
     desc: 'minthu co iu meo meo khom  ',
     btnYes: 'yes ',
     btnNo: 'no:3',
-    question:'sao meomeo iu mthu quáaa  <3',
+    question:'chúc mừng mthu đã nhận được một món quà lớn đó làaa TUI đây <3',
     btnReply: 'next',
-    reply: 'mthu cung iu meoo<33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'thấy hay hong🥰. Yêu mthu nhiều nhiều 😘😘',
     messDesc: 'công chúa ngủ ngonnnnn',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'hay thì bấm đây <3',
+    messLink: 'https://www.facebook.com/messages/t/100008114111266'
 }
