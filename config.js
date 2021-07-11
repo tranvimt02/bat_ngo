@@ -3,15 +3,15 @@ const CONFIG = {
     introDesc: `anh thích tất cả nngày trong tuần trừ chủ nhật ,vì chủ nhật hong có THU  `,
         
     btnIntro: 'hihi',
-    title: '😙',
+    title: 'meo iu mthu quáâ 😙',
     desc: 'minthu co iu meo meo khom  ',
-    btnYes: 'meo cung iu mthu ',
-    btnNo: 'kh sao đợi tới lúc mthu iu cũng đc :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em biết không  <3',
+    btnYes: 'yes ',
+    btnNo: 'no:3',
+    question:'sao meomeo iu mthu quáaa  <3',
     btnReply: 'next',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'mthu cung iu meoo<33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'công chúa ngủ ngonnnnn',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://https://www.facebook.com/profile.php?id=100008114111266' //
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
