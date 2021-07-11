@@ -8,9 +8,10 @@ const CONFIG = {
     btnYes: 'yes ',
     btnNo: 'no:3',
     question:'chúc mừng mthu đã nhận được một món quà lớn đó làaa TUI đây <3',
-    btnReply: 'next',
+    btnReply: 'bấm phím nào cũng đc chữ sẽ hiện ra thoi ',
+    reply: ' bất ngờ chưa I LOVE U <33333333',
     mess: 'thấy hay hong🥰. Yêu mthu nhiều nhiều 😘😘',
     messDesc: 'công chúa ngủ ngonnnnn',
-    btnAccept: 'hay thì bấm đây <3',
+    btnAccept: 'bấm ở đây người iu thương bạn nhất sẽ hiện ra <3',
     messLink: 'https://www.facebook.com/messages/t/100008114111266'
 }
